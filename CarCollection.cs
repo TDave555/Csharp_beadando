@@ -11,8 +11,8 @@ namespace beadando
     {
         private NameValueCollection collection;
 
-        public CarCollection() 
-        { 
+        public CarCollection()
+        {
             this.collection = new NameValueCollection();
         }
 
